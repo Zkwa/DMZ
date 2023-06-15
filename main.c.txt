@@ -7,3 +7,4 @@ int d=30;
 printf("d=d%,d);
 
 }
+--ver 2
